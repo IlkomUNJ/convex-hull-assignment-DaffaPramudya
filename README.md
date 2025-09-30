@@ -3,7 +3,7 @@
 Name : Daffa Pramudya Ismanto
 
 # AI usage
-Saya memakai GPT 5 untuk membantu saya bagaimana menggunakan class yang disediakan oleh Qt Framework seperti <QWidget>, <QVector>, <QPointF>, <QPainter>, dll
+Saya memakai GPT 5 untuk membantu saya bagaimana menggunakan class yang disediakan oleh Qt Framework seperti QWidget, QVector, QPointF, QPainter, dll
 
 Used queries:
 1. Bagaimana agar garis hanya stroke (tidak terisi warna)
